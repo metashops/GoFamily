@@ -20,30 +20,30 @@
 
 ## Go 基础知识
 
-1、认识Go语言
+#### 1、认识Go语言
 
-2、Go 垃圾回收机制
+#### 2、Go 垃圾回收机制
 
-3、GO 基本数据类型
+#### 3、GO 基本数据类型
 
 * [Go 语言Map底层原理](https://blog.csdn.net/realize_dream/article/details/121999836?spm=1001.2014.3001.5501)
 * [Go 语言切片](https://blog.csdn.net/realize_dream/article/details/121952796?spm=1001.2014.3001.5501)
 
-4、GO 复合类型
+#### 4、GO 复合类型
 
-5、Go 函数
+#### 5、Go 函数
 
-6、Go 接口和反射
+#### 6、Go 接口和反射
 
 * [Go 语言反射](https://blog.csdn.net/realize_dream/article/details/121940315?spm=1001.2014.3001.5501)
 
-7、Go 并发Goroutines、Channel
+#### 7、Go 并发Goroutines、Channel
 
 * [goroutine 和 channel 入门](https://blog.csdn.net/realize_dream/article/details/121710134?spm=1001.2014.3001.5501)
 
-8、Go 并发进阶
+#### 8、Go 并发进阶
 
-9、Go 网络编程
+#### 9、Go 网络编程
 
 ## 数据结构与算法
 

@@ -6,9 +6,10 @@
 相互学习，相互拥抱开源。
 
 <p align="center">
-  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-牛童学长-lightgrey.svg" alt="公众号"></a>
+  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-metashops-lightgrey.svg" alt="公众号"></a>
   <a href="https://blog.csdn.net/realize_dream?spm=1001.2100.3001.5343"><img src="https://img.shields.io/badge/CSDN-博客-critical"></a>
 </p>
+
 
 
 
@@ -43,6 +44,8 @@
 
 #### 8、Go 并发进阶
 
+* [Goroutine调度器及面试精选](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&amp;mid=2247484244&amp;idx=1&amp;sn=a281424fa74d96e4a16ed256983fbad6&amp;chksm=fa6bcef8cd1c47ee16b628ae3296182c8d5e66a7bb98e39f5c0eabe6e2c0dca811113fb6129e&token=468025259&lang=zh_CN#rd)
+
 #### 9、Go 网络编程
 
 ## 数据结构与算法
@@ -53,9 +56,9 @@
 
 ## 数据库知识
 
-1	Mysql
+Redis
 
-2	Redis
+
 
 ## 计算机网络
 
@@ -71,3 +74,10 @@
 
 
 
+#### 福利
+
+电子书
+
+  <a name="公众号"></a>
+
+![](http://ww1.sinaimg.cn/large/006FuVcvgy1gv0vb8cmr3j60by0by74s02.jpg)

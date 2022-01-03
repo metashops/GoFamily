@@ -3,7 +3,7 @@
 
 以下是我个人学习经历，希望能帮助到正在学习Go之旅的你。
 
-相互学习，相互拥抱开源。
+相互学习，拥抱开源。
 
 <p align="center">
   <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-metashops-lightgrey.svg" alt="公众号"></a>
@@ -21,14 +21,28 @@
 
 ## 一、Go 基础知识
 
+基础数据结构
+
 * [Go 语言Map底层原理](https://blog.csdn.net/realize_dream/article/details/121999836?spm=1001.2014.3001.5501)
 * [Go 语言切片](https://blog.csdn.net/realize_dream/article/details/121952796?spm=1001.2014.3001.5501)
 
 * [Go 语言反射](https://blog.csdn.net/realize_dream/article/details/121940315?spm=1001.2014.3001.5501)
 
+常见关键字
+
+* Panic
+* defer
+* select
+* range
+
+并发控制
+
 * [Go goroutine 和 channel 入门](https://blog.csdn.net/realize_dream/article/details/121710134?spm=1001.2014.3001.5501)
 
 * [Go Goroutine调度器及面试精选](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&amp;mid=2247484244&amp;idx=1&amp;sn=a281424fa74d96e4a16ed256983fbad6&amp;chksm=fa6bcef8cd1c47ee16b628ae3296182c8d5e66a7bb98e39f5c0eabe6e2c0dca811113fb6129e&token=468025259&lang=zh_CN#rd)
+* [彻底明白Go语言的Channel了](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&amp;mid=2247484271&amp;idx=1&amp;sn=39d42387e9a14ac7a378970e7123b3b0&amp;chksm=fa6bcec3cd1c47d533e2cfa15c51b359d812e4c338f9452daa7ec2ce7902b799ba4e3d846276&token=468025259&lang=zh_CN#rd)
+* [Go 语言 channel 的阻塞问题]()
+* [Go如何保证并发读写的顺序]()
 
 
 

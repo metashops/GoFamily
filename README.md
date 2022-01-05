@@ -43,7 +43,7 @@
 * [Go Goroutine调度器及面试精选](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&amp;mid=2247484244&amp;idx=1&amp;sn=a281424fa74d96e4a16ed256983fbad6&amp;chksm=fa6bcef8cd1c47ee16b628ae3296182c8d5e66a7bb98e39f5c0eabe6e2c0dca811113fb6129e&token=468025259&lang=zh_CN#rd)
 * [彻底明白Go语言的Channel了](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&amp;mid=2247484271&amp;idx=1&amp;sn=39d42387e9a14ac7a378970e7123b3b0&amp;chksm=fa6bcec3cd1c47d533e2cfa15c51b359d812e4c338f9452daa7ec2ce7902b799ba4e3d846276&token=468025259&lang=zh_CN#rd)
 * [Go 语言 channel 的阻塞问题](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&amp;mid=2247484283&amp;idx=1&amp;sn=c3de19c27e585a417bd224f92783c48b&amp;chksm=fa6bced7cd1c47c189f99283ce6fe9564c92a5e1f7ba4a28fe224394afb3e9c81167c3f5f246&token=468025259&lang=zh_CN#rd)
-* [Go如何保证并发读写的顺序]()
+* [Go如何保证并发读写的顺序](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&amp;mid=2247484292&amp;idx=1&amp;sn=2727821035f7ee6b1a21c5feff816a7d&amp;chksm=fa6bce28cd1c473e863afd4add7b54750d77ebb5b08efc5aead897222a0d70c114afa4a90bbc&token=1208516942&lang=zh_CN#rd)
 
 
 
@@ -84,9 +84,44 @@
 
 
 
-#### 福利
+## 福利
 
-电子书
+> 关于Go语言学习之旅，推荐以下使用过的书籍及优质博客，希望能帮助到你。
+
+入门推荐：
+
+* [Effective Go](https://golang.google.cn/doc/effective_go.html)：官方文档，虽然英文，但也要读完
+
+* Mastering GO中文版：(知识点详细，适合初学者快速掌握)。
+* Mastering GO 英文版
+* Go 语言圣经：[在线博客](https://www.topgoer.cn/docs/gopl-zh/gopl-zh-1d29qo5qbk3js)
+* Go 语言实战：(可以作为辅助)。
+* Ultimate Go Notebook 英文版，
+* Go 101：不断更新
+
+进阶推荐：
+
+* Go 专家编程：(可以辅助学习)，[在线博客](https://www.topgoer.cn/docs/gozhuanjia/gogfjhk)
+* Go 语言核心编程
+* Go 并发编程实战
+* 其他书籍：Distributed Computing with Go 英文版
+* 优质相关视频，这里就不说了
+
+推荐博客：
+
+* [Go中文网](http://c.biancheng.net/golang/)
+* [地鼠文档](https://www.topgoer.cn/)：资料非常多，非常方便
+* [Go 语言设计与实现](https://draveness.me/golang/)：非常棒，从使用到底层都给你讲一遍
+
+PDF下载：
+
+所有书籍点击 [下载入口](https://pan.baidu.com/s/1n3YQPU1baIkWhfExJIj0tg)，密码： 3fat      或关注回复：「电子书」
+
+以上学习Go入门到入坑所参考的书籍，请供参考！
+
+
+
+
 
   <a name="公众号"></a>
 

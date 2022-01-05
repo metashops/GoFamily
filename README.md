@@ -105,13 +105,17 @@
 * Go 语言核心编程
 * Go 并发编程实战
 * 其他书籍：Distributed Computing with Go 英文版
-* 优质相关视频，这里就不说了
 
 推荐博客：
 
 * [Go中文网](http://c.biancheng.net/golang/)
 * [地鼠文档](https://www.topgoer.cn/)：资料非常多，非常方便
 * [Go 语言设计与实现](https://draveness.me/golang/)：非常棒，从使用到底层都给你讲一遍
+
+推荐视频：
+
+* 从来没有接触过编程：推荐B站韩顺平老师(课时很长需要坚持)
+* 推荐国外课程：Ardan labs 可保持下来或 [阿里云盘在线观看](https://www.aliyundrive.com/s/ZNWXUhVVKxr)
 
 PDF下载：
 

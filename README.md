@@ -19,7 +19,7 @@
 
 ## Table of Contents(Ctrl+F)
 
-## 一、Go 基础知识
+## Go 基础知识
 
 基础数据结构
 
@@ -47,11 +47,7 @@
 
 
 
-## 二、数据结构与算法
-
-
-
-## 三、数据库知识
+## 数据库知识
 
 ### Redis
 
@@ -72,9 +68,7 @@
 * [15 Redis-布隆过滤器](https://github.com/metashops/GoFamily/blob/main/does/Redis/15%20Redis-%E5%B8%83%E9%9A%86%E8%BF%87%E6%BB%A4%E5%99%A8.md)
 * [16 Redis-常见面试题](https://github.com/metashops/GoFamily/blob/main/does/Redis/16%20Redis-%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
-## 计算机网络
 
-## 操作系统
 
 ## 面试专题
 

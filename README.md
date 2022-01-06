@@ -1,9 +1,9 @@
 # GoFamily介绍：
 想和大家一起学习Go语言。
 
-以下是我个人学习经历，希望能帮助到正在学习Go之旅的你。
+以下是我个人学习经历，希望能帮助到正在学习Go之旅。
 
-相互学习，拥抱开源。
+一起拥抱更多开源，希望大家多多支持。（别忘记**Star**哟）
 
 <p align="center">
   <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-metashops-lightgrey.svg" alt="公众号"></a>
@@ -11,9 +11,9 @@
 </p>
 
 
+[脑图在线编辑地址](https://www.processon.com/view/link/61d69f7f07912973ef0fa690)
 
-
-![脑图.png](http://tva1.sinaimg.cn/large/006FuVcvgy1gy2l0pt696j319c1n079r.jpg)
+![Go思维脑图.png](http://tva1.sinaimg.cn/large/006FuVcvgy1gy41wegwrnj30j60yln31.jpg)
 
 
 

@@ -13,7 +13,7 @@
 
 [脑图在线编辑地址](https://www.processon.com/view/link/61d69f7f07912973ef0fa690)
 
-![Go思维脑图.png](http://tva1.sinaimg.cn/large/006FuVcvgy1gy41wegwrnj30j60yln31.jpg)
+![天空之城.png](http://tva1.sinaimg.cn/large/006FuVcvgy1gy424phfqqj30s32127je.jpg)
 
 
 

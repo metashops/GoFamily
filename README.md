@@ -28,18 +28,10 @@
 
 * [Go 语言反射](https://blog.csdn.net/realize_dream/article/details/121940315?spm=1001.2014.3001.5501)
 
-常见关键字
-
-* make & new
-* panic & recover
-* defer
-* select
-* for range
-
 并发控制
 
+* [Go语言Mutex 源码分析](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&amp;mid=2247484304&amp;idx=1&amp;sn=63f463b4d143377d1b1540e99f8cc22d&amp;chksm=fa6bce3ccd1c472a8eedf4a34a43891a38729e2c50460f01aab5826001149003fc1ab91bb1d4&token=1360817128&lang=zh_CN#rd)
 * [Go goroutine 和 channel 入门](https://blog.csdn.net/realize_dream/article/details/121710134?spm=1001.2014.3001.5501)
-
 * [Go Goroutine调度器及面试精选](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&amp;mid=2247484244&amp;idx=1&amp;sn=a281424fa74d96e4a16ed256983fbad6&amp;chksm=fa6bcef8cd1c47ee16b628ae3296182c8d5e66a7bb98e39f5c0eabe6e2c0dca811113fb6129e&token=468025259&lang=zh_CN#rd)
 * [彻底明白Go语言的Channel了](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&amp;mid=2247484271&amp;idx=1&amp;sn=39d42387e9a14ac7a378970e7123b3b0&amp;chksm=fa6bcec3cd1c47d533e2cfa15c51b359d812e4c338f9452daa7ec2ce7902b799ba4e3d846276&token=468025259&lang=zh_CN#rd)
 * [Go 语言 channel 的阻塞问题](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&amp;mid=2247484283&amp;idx=1&amp;sn=c3de19c27e585a417bd224f92783c48b&amp;chksm=fa6bced7cd1c47c189f99283ce6fe9564c92a5e1f7ba4a28fe224394afb3e9c81167c3f5f246&token=468025259&lang=zh_CN#rd)

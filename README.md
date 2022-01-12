@@ -19,6 +19,12 @@
 
 ## Table of Contents(Ctrl+F)
 
+## 计算机基础
+
+计算机网络、计算机操作系统，全部统一放在一个思维脑图。这样是为了提高复习，方便查阅。
+
+在线编辑地址：[计算机基础](https://www.processon.com/view/link/61de94980e3e7441577a804d)
+
 ## Go 基础知识
 
 基础数据结构

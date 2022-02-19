@@ -80,31 +80,31 @@
 
 > 关于Go语言学习之旅，推荐以下使用过的书籍及优质博客，希望能帮助到你。
 
-入门推荐：
+**入门推荐**：
 
 * [Effective Go](https://golang.google.cn/doc/effective_go.html)：官方文档，虽然英文，但也要读完
 
-* Mastering GO中文版：(知识点详细，适合初学者快速掌握)。
+* Mastering GO 中文版：(知识点详细，适合初学者快速掌握)。
 * Mastering GO 英文版
 * Go 语言圣经：[在线博客](https://www.topgoer.cn/docs/gopl-zh/gopl-zh-1d29qo5qbk3js)
 * Go 语言实战：(可以作为辅助)。
 * Ultimate Go Notebook 英文版，
 * Go 101：不断更新
 
-进阶推荐：
+**进阶推荐**：
 
 * Go 专家编程：(可以辅助学习)，[在线博客](https://www.topgoer.cn/docs/gozhuanjia/gogfjhk)
 * Go 语言核心编程
 * Go 并发编程实战
 * 其他书籍：Distributed Computing with Go 英文版
 
-推荐博客：
+**推荐博客**：
 
 * [Go中文网](http://c.biancheng.net/golang/)
 * [地鼠文档](https://www.topgoer.cn/)：资料非常多，非常方便
 * [Go 语言设计与实现](https://draveness.me/golang/)：非常棒，从使用到底层都给你讲一遍
 
-推荐视频：
+**推荐视频**：
 
 * 从来没有接触过编程：推荐B站韩顺平老师(课时很长需要坚持)
 * 推荐国外课程：Ardan labs 可保持下来或 [阿里云盘在线观看](https://www.aliyundrive.com/s/ZNWXUhVVKxr)
@@ -117,7 +117,17 @@ PDF下载：
 
 
 
+## 其他推荐
 
+* 算法与数据结构体系课，[下载链接](https://pan.baidu.com/s/1t6lbcsU_N1iXotcm7Zoz4g)，密码：ls1u 
+* 后端校招面试突击课，4年本科基础大复盘 助力进大厂(2021版)，[下载链接](https://pan.baidu.com/s/1Av95FA22i-t4uzI2i9zZtw)，密码：3a5a
+
+* 基于Spring Cloud微服务架构广告系统设计与实现(2020版)，[下载链接](https://pan.baidu.com/s/1U2oQNt1XmK2M79VsOmemLw)，密码：hc5s
+* RPC框架核心源码深度解析，[下载链接](https://pan.baidu.com/s/1TQz5xc8sX6uVsngpwBQz9A)，密码：9odo
+
+
+
+> 若部分链接失效，后台留言或者私信。
 
   <a name="公众号"></a>
 

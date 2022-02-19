@@ -36,6 +36,7 @@
 
 并发控制
 
+* [Mutex 如何解决资源并发访问问题？](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&amp;mid=2247484323&amp;idx=1&amp;sn=264afadcf4ca1092d891f076c5e200e9&amp;chksm=fa6bce0fcd1c4719c1b92c4827b03488b982d424f43a9508c45eca86499e9564ecfbd5694bce&token=1599394794&lang=zh_CN#rd)
 * [Go语言Mutex 源码分析](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&amp;mid=2247484304&amp;idx=1&amp;sn=63f463b4d143377d1b1540e99f8cc22d&amp;chksm=fa6bce3ccd1c472a8eedf4a34a43891a38729e2c50460f01aab5826001149003fc1ab91bb1d4&token=1360817128&lang=zh_CN#rd)
 * [Go goroutine 和 channel 入门](https://blog.csdn.net/realize_dream/article/details/121710134?spm=1001.2014.3001.5501)
 * [Go Goroutine调度器及面试精选](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&amp;mid=2247484244&amp;idx=1&amp;sn=a281424fa74d96e4a16ed256983fbad6&amp;chksm=fa6bcef8cd1c47ee16b628ae3296182c8d5e66a7bb98e39f5c0eabe6e2c0dca811113fb6129e&token=468025259&lang=zh_CN#rd)
@@ -120,14 +121,18 @@ PDF下载：
 ## 其他推荐
 
 * 算法与数据结构体系课，[下载链接](https://pan.baidu.com/s/1t6lbcsU_N1iXotcm7Zoz4g)，密码：ls1u 
-* 后端校招面试突击课，4年本科基础大复盘 助力进大厂(2021版)，[下载链接](https://pan.baidu.com/s/1Av95FA22i-t4uzI2i9zZtw)，密码：3a5a
+* 后端校招面试突击课，4年本科基础大复盘助力进大厂(2021版)，[下载链接](https://pan.baidu.com/s/1Av95FA22i-t4uzI2i9zZtw)，密码：3a5a
 
 * 基于Spring Cloud微服务架构广告系统设计与实现(2020版)，[下载链接](https://pan.baidu.com/s/1U2oQNt1XmK2M79VsOmemLw)，密码：hc5s
 * RPC框架核心源码深度解析，[下载链接](https://pan.baidu.com/s/1TQz5xc8sX6uVsngpwBQz9A)，密码：9odo
-
-
+* 对标大厂 Redis6视频讲解，[下载链接](https://pan.baidu.com/s/1N2Af0V18EfoOFy6mN1bwhA)，密码：0475
+* 大厂-JUC并发编程与源码分析，[下载链接](https://pan.baidu.com/s/1J_V1i_FAxdH9uVs6kbcJHQ)，密码：0rvq 
 
 > 若部分链接失效，后台留言或者私信。
+
+![](https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/113334bfc50d6a52e4a38e87c74c43a8c9f0685a.png)
+
+
 
   <a name="公众号"></a>
 

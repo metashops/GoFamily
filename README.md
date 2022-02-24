@@ -46,7 +46,7 @@
 
 
 
-## 数据库知识
+## 数据库相关
 
 ### Redis
 
@@ -66,6 +66,22 @@
 * [14 Redis6-配置参考说明](https://github.com/metashops/GoFamily/blob/main/does/Redis/14%20Redis6-%E9%85%8D%E7%BD%AE%E5%8F%82%E8%80%83%E8%AF%B4%E6%98%8E.md)
 * [15 Redis-布隆过滤器](https://github.com/metashops/GoFamily/blob/main/does/Redis/15%20Redis-%E5%B8%83%E9%9A%86%E8%BF%87%E6%BB%A4%E5%99%A8.md)
 * [16 Redis-常见面试题](https://github.com/metashops/GoFamily/blob/main/does/Redis/16%20Redis-%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+
+
+
+## 框架
+
+* [Gin 英文](https://github.com/gin-gonic/gin)
+* [Gin 中文](https://www.kancloud.cn/shuangdeyu/gin_book/949414)
+* [GORM](https://gorm.io/docs/) ：可切换中英文
+
+
+
+## 优质博客
+
+* [煎鱼](https://eddycjy.com/)
+* [鸟窝](https://colobu.com/)
+* [陈皓](https://coolshell.cn/)
 
 
 

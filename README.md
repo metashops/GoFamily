@@ -11,7 +11,7 @@
 </p>
 
 
-[脑图在线编辑地址](https://www.processon.com/view/link/61d69f7f07912973ef0fa690)
+[Go学习路线，脑图在线编辑地址](https://www.processon.com/view/link/61d69f7f07912973ef0fa690)
 
 ![天空之城.png](http://tva1.sinaimg.cn/large/006FuVcvgy1gy424phfqqj30s32127je.jpg)
 
@@ -82,6 +82,7 @@
 * [煎鱼](https://eddycjy.com/)
 * [鸟窝](https://colobu.com/)
 * [陈皓](https://coolshell.cn/)
+* [曹春晖](https://xargin.com/)
 
 
 
@@ -153,3 +154,7 @@ PDF下载：
   <a name="公众号"></a>
 
 ![](http://ww1.sinaimg.cn/large/006FuVcvgy1gv0vb8cmr3j60by0by74s02.jpg)
+
+新建了一个知识星球，用于免费分享技术文章、职场心得、面经等等，欢迎加入。
+
+![](https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/814889a331fc5456e667db52176f5c42ad1dfa0b.jpg)

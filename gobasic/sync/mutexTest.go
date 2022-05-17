@@ -4,7 +4,10 @@ import (
 	"fmt"
 	"sync"
 )
-
+type Mutex struct {
+	key int32
+	sema int32
+}
 type Counter1 struct {
 	mu sync.Mutex
 	count uint64

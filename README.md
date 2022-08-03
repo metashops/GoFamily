@@ -46,6 +46,64 @@
 
 
 
+# 云原生
+
+* Docker
+  * Docker 基础
+  * Dockerfile
+* Kubernetes 基础
+  * Kubernetes 背景
+  * 为什么要 Pod
+  * Pod 原理
+  * Pod 生命周期
+* Kubernetes 常用命令
+* controller
+  * ReplicaSet
+  * Deployment
+  * StatefulSet
+  * DaemonSet
+* configuration management
+  * ConfigMap
+  * Secret
+  * ServiceAccount
+* Network
+  * Flannel
+  * NetworkPolicy
+  * Ingress
+* store
+  * Local 存储
+  * Ceph
+* monitor
+  * Prometheus
+* DevOps
+  * Jenkins
+  * Gitlab
+* Istio
+* Containerd
+  * OCI & CRI
+* 二次开发基础
+  * Client-go 
+    * Informer 机制
+    * Reflect 源码
+    * DeltaFIFO 源码
+    * Indexer 源码
+    * WorkQueue 源码
+  * 编写控制器
+    * CRD
+    * 代码生成器
+  * Operator
+    * 什么是 Operator
+    * Operator Framework 使用
+
+# 边缘计算
+
+* 为什么要边缘计算
+* KubeEdge
+* k3s
+* 边缘计算落地实现
+
+
+
 ## 数据库相关
 
 ### Redis

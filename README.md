@@ -144,9 +144,7 @@
 
 
 
-## 面试专题
-
-### Go基础
+## 日常分享
 
 * [defer关键字，都能扯很久？](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&amp;mid=2247484225&amp;idx=1&amp;sn=f41838df530ce9b920f6a180f164b3aa&amp;chksm=fa6bceedcd1c47fb0b103c9dc6fe0364a8e79b0a5658c45d8bab52ad8f72c7214f23758539a7&token=612778377&lang=zh_CN#rd)
 
@@ -207,11 +205,17 @@ PDF下载：
 
 ![](https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/113334bfc50d6a52e4a38e87c74c43a8c9f0685a.png)
 
+---
 
+扫码加微信，进群。。。
 
   <a name="公众号"></a>
 
 ![](http://ww1.sinaimg.cn/large/006FuVcvgy1gv0vb8cmr3j60by0by74s02.jpg)
+
+---
+
+
 
 新建了一个知识星球，用于免费分享技术文章、职场心得、面经等等，欢迎加入。
 

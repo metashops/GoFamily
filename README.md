@@ -129,9 +129,9 @@
 
 ## 框架
 
-* [Gin 英文](https://github.com/gin-gonic/gin)
-* [Gin 中文](https://www.kancloud.cn/shuangdeyu/gin_book/949414)
-* [GORM](https://gorm.io/docs/) ：可切换中英文
+* [Gin ](https://github.com/gin-gonic/gin)
+* [Gin ](https://www.kancloud.cn/shuangdeyu/gin_book/949414)
+* [GORM](https://gorm.io/docs/) 
 
 
 
@@ -144,7 +144,7 @@
 
 
 
-## 日常分享
+## 不定期分享
 
 * [defer关键字，都能扯很久？](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&amp;mid=2247484225&amp;idx=1&amp;sn=f41838df530ce9b920f6a180f164b3aa&amp;chksm=fa6bceedcd1c47fb0b103c9dc6fe0364a8e79b0a5658c45d8bab52ad8f72c7214f23758539a7&token=612778377&lang=zh_CN#rd)
 

@@ -13,7 +13,7 @@
 
 [Go学习路线，脑图在线编辑地址](https://www.processon.com/view/link/61d69f7f07912973ef0fa690)
 
-![天空之城.png](http://tva1.sinaimg.cn/large/006FuVcvgy1gy424phfqqj30s32127je.jpg)
+![Roadmap](./golang-developer-roadmap.png)
 
 
 

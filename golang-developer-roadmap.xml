@@ -1,4 +1,4 @@
-<mxfile modified="2022-08-06T02:38:40.665Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="fKEFzDaUsCyGI9BWK1zs" compressed="false" version="20.2.2" type="github">
+<mxfile modified="2022-08-06T02:40:53.936Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="UphFzsd1xS50yVdIFWhD" compressed="false" version="20.2.2" type="github">
   <diagram id="OFtFwTtmWmDuu0DWMTB4" name="Page-1">
     <mxGraphModel dx="1426" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -258,7 +258,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="15a4b3893f7299b4-121" value="keep learning" style="text;html=1;strokeColor=#000000;fillColor=#FFFFCC;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;comic=0;fontFamily=Verdana;fontSize=14;labelBorderColor=none;glass=0;arcSize=50;perimeterSpacing=1;" parent="1" vertex="1">
-          <mxGeometry x="431.5" y="2150" width="147" height="28" as="geometry" />
+          <mxGeometry x="380.5" y="2150" width="147" height="28" as="geometry" />
         </mxCell>
         <mxCell id="15a4b3893f7299b4-131" value="MongoDB" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;" parent="1" vertex="1">
           <mxGeometry x="141" y="740" width="100" height="15" as="geometry" />

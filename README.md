@@ -44,9 +44,21 @@
 * [Go 语言 channel 的阻塞问题](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&amp;mid=2247484283&amp;idx=1&amp;sn=c3de19c27e585a417bd224f92783c48b&amp;chksm=fa6bced7cd1c47c189f99283ce6fe9564c92a5e1f7ba4a28fe224394afb3e9c81167c3f5f246&token=468025259&lang=zh_CN#rd)
 * [Go如何保证并发读写的顺序](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&amp;mid=2247484292&amp;idx=1&amp;sn=2727821035f7ee6b1a21c5feff816a7d&amp;chksm=fa6bce28cd1c473e863afd4add7b54750d77ebb5b08efc5aead897222a0d70c114afa4a90bbc&token=1208516942&lang=zh_CN#rd)
 
+## gRPC-go
 
+1. 快速体验grpc
 
-# 云原生
+2. grpc服务器端启动时都做了哪些骚动作？
+3. grpc客户端与服务器端是如何建立链接？
+4. 解析器
+5. 平衡器
+6. 帧接收和发送原理
+7. grpc客户端是如何向grpc服务器发起rpc请求以及处理流程
+8. 滑动窗口
+9. keepalive
+10. 多路复用multiplex
+
+## 云原生
 
 * Docker
   * Docker 基础
@@ -95,7 +107,7 @@
     * 什么是 Operator
     * Operator Framework 使用
 
-# 边缘计算
+## 边缘计算
 
 * 为什么要边缘计算
 * KubeEdge
@@ -130,7 +142,6 @@
 ## 框架
 
 * [Gin ](https://github.com/gin-gonic/gin)
-* [Gin ](https://www.kancloud.cn/shuangdeyu/gin_book/949414)
 * [GORM](https://gorm.io/docs/) 
 
 

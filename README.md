@@ -160,6 +160,19 @@
 
 * [defer关键字，都能扯很久？](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&amp;mid=2247484225&amp;idx=1&amp;sn=f41838df530ce9b920f6a180f164b3aa&amp;chksm=fa6bceedcd1c47fb0b103c9dc6fe0364a8e79b0a5658c45d8bab52ad8f72c7214f23758539a7&token=612778377&lang=zh_CN#rd)
 
+## 辅助资料
+
+> 以下是自己学习辅助资料仅供参考，如果你有更好的资料、书籍、文章等等，欢迎分享。
+
+| **书名/课程**            | **备注** |
+| :----------------------- | -------- |
+| 《趣谈网络协议》         |          |
+| 《Go 语言设计与实现》    |          |
+| 《MySQL 45 讲》          |          |
+| 《Redis 核心技术与实战》 |          |
+| 《深入剖析 Kubernetes》  |          |
+| 《Kubernetes 权威指南》  |          |
+
 
 
 ## 福利

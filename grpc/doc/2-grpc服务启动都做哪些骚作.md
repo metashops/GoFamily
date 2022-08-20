@@ -1,3 +1,5 @@
+> gRPC 服务器端启动流程
+
 ![grpc服务端流程图](https://github.com/metashops/GoFamily/blob/main/assets/image/grpc%E6%9C%8D%E5%8A%A1%E7%AB%AF%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B.png)
 
 ### 1、服务器注册&初始化阶段

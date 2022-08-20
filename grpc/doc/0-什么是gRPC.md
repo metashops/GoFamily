@@ -1,10 +1,10 @@
 ### 什么是 gGRPC？
 
-1、**什么是 RPC**
+**1、什么是 RPC**
 
 远程过程调用（Remote Procedure Call，缩写为 RPC）是一个计算机通信协议。
 
-2、**什么是 gRPC**
+**2、什么是 gRPC**
 
 gRPC 是一个高性能、通用的开源RPC框架，其由 Google 主要面向移动应用开发并基于
 
@@ -14,7 +14,7 @@ HTTP/2 协议标准而设计，基于 ProtoBuf(Protocol Buffers) 序列化协议
 
 gRPC 基于 HTTP/2 标准设计，带来诸如双向流、流控、头部压缩、单 TCP 连接上的多复用请求等特性。这些特性使得其在移动设备上表现更好，在一定的情况下更节省空间占用。
 
-3、**gRPC 调用模型**
+**3、gRPC 调用模型**
 
 gRPC 模型官方图如下：
 
@@ -26,11 +26,11 @@ gRPC 模型官方图如下：
 4. 对响应结果使用 Protobuf 进行对象序列化压缩（IDL）。
 5. 客户端接受到服务端响应，解码请求体。回调被调用的 A 方法，唤醒正在等待响应（阻塞）的客户端调用并返回响应结果。
 
-4、**什么是 Protobuf**
+**4、什么是 Protobuf**
 
 Protocol Buffers（Protobuf）是一种与语言、平台无关，可扩展的序列化结构化数据的数据描述语言，我们常常称其为 IDL，常用于通信协议，数据存储等等，相较于 JSON、XML，它更小、更快，因此也更受开发人员的青眯
 
-5、**Proto3 基础语法**
+**5、Proto3 基础语法**
 
 ```protobuf
 syntax = "proto3";
@@ -71,7 +71,7 @@ enumType:枚举类型
 
 **5.1 字段介绍**
 
-（1）***\*枚举(Enumerations)\****
+**（1）枚举(Enumerations)**
 
 枚举类型适用于提供一组预定义的值，选择其中一个。例如我们将性别定义为枚举类型。
 
@@ -87,7 +87,7 @@ message Student {
 }
 ```
 
-（2）***\*使用其他消息类型\****
+**（2）使用其他消息类型**
 
 ```protobuf
 message SearchResponse {
@@ -150,7 +150,7 @@ message MapRequest {
 }
 ```
 
-6、***\*定义服务(Services)\****
+**6、定义服务(Services)**
 
 ```protobuf
 service SearchService {

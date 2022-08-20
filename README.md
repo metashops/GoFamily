@@ -11,8 +11,16 @@
 </p>
 
 
+[Go学习路线，脑图在线编辑地址](https://www.processon.com/view/link/61d69f7f07912973ef0fa690) 
 
-[Go学习路线，脑图在线编辑地址](https://www.processon.com/view/link/61d69f7f07912973ef0fa690)
+<details>
+  <summary>Go学习脑图</summary>
+  <p><a href="https://github.com/metashops/GoFamily/blob/main/golang-developer-roadmap.png"></a></p>
+</details>
+
+
+
+
 
 ![Roadmap](./golang-developer-roadmap.png)
 

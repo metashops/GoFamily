@@ -13,16 +13,7 @@
 
 [Go学习路线，脑图在线编辑地址](https://www.processon.com/view/link/61d69f7f07912973ef0fa690) 
 
-<details>
-  <summary>Go学习脑图</summary>
-  <p><a href="https://github.com/metashops/GoFamily/blob/main/golang-developer-roadmap.png"></a></p>
-</details>
-
-
-
-
-
-![Roadmap](./golang-developer-roadmap.png)
+<details> <summary>Go学习路线，展开脑图</summary> <pre><img src="https://github.com/metashops/GoFamily/blob/main/golang-developer-roadmap.png"/></pre> </details>
 
 
 
@@ -254,3 +245,4 @@ PDF下载：
 新建了一个知识星球，用于免费分享技术文章、职场心得、面经等等，欢迎加入。
 
 ![](https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/79e99b22c32616c3e4c34b08487ed32c96c80e39.png)
+

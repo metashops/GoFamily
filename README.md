@@ -1,17 +1,20 @@
 # GoFamily介绍：
 想和大家一起学习Go语言。
 
-以下是我个人学习经历，希望能帮助到正在学习Go之旅。
+以下是我平时学习的笔记，希望能帮助到正在学习Go之旅。
 
 一起拥抱更多开源，希望大家多多支持。（别忘记**Star**哟）
 
 <p align="center">
   <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-metashops-lightgrey.svg" alt="公众号"></a>
-  <a href="https://blog.csdn.net/realize_dream?spm=1001.2100.3001.5343"><img src="https://img.shields.io/badge/CSDN-博客-critical"></a>
+  <a href="https://blog.csdn.net/realize_dream?type=blog"><img src="https://img.shields.io/badge/CSDN-博客-critical"></a>
 </p>
 
 
+
 [Go学习路线，脑图在线编辑地址](https://www.processon.com/view/link/61d69f7f07912973ef0fa690) 
+
+
 
 <details> <summary>Go学习路线，展开脑图</summary> <pre><img src="https://github.com/metashops/GoFamily/blob/main/golang-developer-roadmap.png"/></pre> </details>
 
@@ -21,9 +24,12 @@
 
 ## 计算机基础
 
-在线编辑地址：[计算机基础](https://www.processon.com/view/link/620e0e86079129799619067a)
+八股文笔记在线脑图地址：[计算机网络](https://www.processon.com/view/link/620e0e86079129799619067a)
 
-> 计算机网络、计算机操作系统，全部统一放在一个思维脑图。这样是为了提高复习，方便查阅。
+计算机网络
+
+1. 浏览器发起http请求背后的流程
+2. 全面剖析http细节
 
 ## Go 基础知识
 

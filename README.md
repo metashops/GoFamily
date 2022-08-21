@@ -53,14 +53,9 @@
 ## gRPC-go
 
 0. [什么是 gRPC](https://github.com/metashops/GoFamily/blob/main/grpc/doc/0-%E4%BB%80%E4%B9%88%E6%98%AFgRPC.md)  
-
 1. [grpc 入门实战](https://github.com/metashops/GoFamily/blob/main/grpc/doc/1-gRPC%E5%85%A5%E9%97%A8%E5%AE%9E%E6%88%98.md) 
 2. [grpc服务器端启动时都做了哪些骚动作？](https://github.com/metashops/GoFamily/blob/main/grpc/doc/2-grpc%E6%9C%8D%E5%8A%A1%E5%90%AF%E5%8A%A8%E9%83%BD%E5%81%9A%E5%93%AA%E4%BA%9B%E9%AA%9A%E4%BD%9C.md) 
-<<<<<<< HEAD
 3. [grpc客户端与服务器端是如何建立链接？](https://github.com/metashops/GoFamily/blob/main/grpc/doc/3-grpc%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AB%AF%E6%98%AF%E5%A6%82%E4%BD%95%E5%BB%BA%E7%AB%8B%E9%93%BE%E6%8E%A5%EF%BC%9F.md) 
-=======
-3. grpc客户端与服务器端是如何建立链接？
->>>>>>> links
 4. 解析器
 5. 平衡器
 6. 帧接收和发送原理

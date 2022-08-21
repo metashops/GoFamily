@@ -2,7 +2,7 @@
 
 流程图：
 
-
+![](https://github.com/metashops/GoFamily/blob/main/assets/image/network/%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8F%91%E8%B5%B7http%E8%83%8C%E5%90%8E%E6%B5%81%E7%A8%8B.png)
 
 * 浏览器从URL解析出域名；根据域名查询DNS，获取到域名对应的IP地址。
 * 浏览器使用IP地址与服务器建立TCP连接。如果使用HTTPS，那么会完成TLS/SSL握手。

@@ -11,16 +11,17 @@
 </p>
 
 
-
 [Go学习路线，脑图在线编辑地址](https://www.processon.com/view/link/61d69f7f07912973ef0fa690) 
 
 
 
-<details> <summary>Go学习路线，展开脑图</summary> <pre><img src="https://github.com/metashops/GoFamily/blob/main/golang-developer-roadmap.png"/></pre> </details>
+<details> <summary>点击这里：Go学习路线，展开脑图</summary> <pre><img src="https://github.com/metashops/GoFamily/blob/main/golang-developer-roadmap.png"/></pre> </details>
 
 
 
 ## Table of Contents(Ctrl+F)
+
+近期打算更新完 [Go云原生进阶聚合笔记](https://important-fight-4fa.notion.site/Go-12eeeb8b592d49f295e94d6fb35c7abc) 专栏，目前正在更新中。。。
 
 ## 计算机基础
 

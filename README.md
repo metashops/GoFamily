@@ -71,37 +71,51 @@
 * Docker
   * Docker 基础
   * Dockerfile
+  
 * Kubernetes 基础
   * Kubernetes 背景
   * 为什么要 Pod
   * Pod 原理
   * Pod 生命周期
+  
 * Kubernetes 常用命令
+
 * controller
   * ReplicaSet
   * Deployment
   * StatefulSet
   * DaemonSet
+  
 * configuration management
   * ConfigMap
   * Secret
   * ServiceAccount
+  
 * Network
   * Flannel
   * NetworkPolicy
   * Ingress
+  
 * store
   * Local 存储
   * Ceph
+  
 * monitor
   * Prometheus
+  
 * DevOps
   * Jenkins
   * Gitlab
+  
 * Istio
+
 * Containerd
   * OCI & CRI
+  
 * 二次开发基础
+  
+  * [Client-go 快速入门体验](https://github.com/metashops/GoFamily/tree/main/kubernetes/client-go/example) 
+  
   * Client-go 
     * Informer 机制
     * Reflect 源码

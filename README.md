@@ -251,5 +251,4 @@ PDF下载：
 
 新建了一个知识星球，用于免费分享技术文章、职场心得、面经等等，欢迎加入。
 
-![](https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/79e99b22c32616c3e4c34b08487ed32c96c80e39.png)
-
+![](https://tva1.sinaimg.cn/large/008vxvgGgy1h7t7l7w05yj30u016m0vz.jpg)

@@ -180,3 +180,4 @@ func main() {
 }
 ```
 
+ingress 规则会生效到所有安装 ingress Contreoller 的机器的 nginx 配置

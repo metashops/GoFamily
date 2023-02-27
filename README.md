@@ -23,14 +23,36 @@
 
 近期打算更新完 [Go云原生进阶聚合笔记](https://important-fight-4fa.notion.site/Go-12eeeb8b592d49f295e94d6fb35c7abc) 专栏，目前正在更新中。。。
 
-## 计算机基础
 
-八股文笔记在线脑图地址：[计算机网络](https://www.processon.com/view/link/620e0e86079129799619067a) 
 
-计算机网络
+## Kubernetes
 
-1. [浏览器发起http请求背后的流程](https://github.com/metashops/GoFamily/blob/main/network/1-%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8F%91%E8%B5%B7HTTP%E8%AF%B7%E6%B1%82%E8%83%8C%E5%90%8E%E7%9A%84%E5%8E%9F%E7%90%86.md)  
-2. [全面剖析http细节](https://github.com/metashops/GoFamily/blob/main/network/2-%E5%85%A8%E9%9D%A2%E5%89%96%E6%9E%90HTTP%E7%BB%86%E8%8A%82.md)  
+* CSI（Container Storage Interface）
+  * [k8s-持久化存储PV与PVC（1）](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&mid=2247484532&idx=1&sn=0b21b868c11a8e5ed15117de1a736102&chksm=fa6bc9d8cd1c40cec467e16c2c16583e12f3118f6ab6945f1618202f62651319b10fd1b5b994#rd) 
+  * [k8s-持久化存储之StorageClass（2）](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&mid=2247484539&idx=1&sn=482ac715f99e6cf3aa2efe9caf2f162f&chksm=fa6bc9d7cd1c40c1c27512f8981408c8da9e00fd4356ad8eff8b20a941092c1c3824a9a66105#rd) 
+  * [k8s-容器存储CSI插件的编写（3）](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&mid=2247484573&idx=1&sn=d0d0c05892320422c5eefd7ac9733f58&chksm=fa6bc931cd1c4027f7d7febcd990f8929268b757247f0b12e9696f99447b7b88eb08bc77b8bd#rd) 
+
+* CNI（Container Network Interface）
+* CRI（Container Runtime Interface）
+
+
+
+## Client-go
+
+* [Client-go 快速入门体验](https://github.com/metashops/GoFamily/tree/main/kubernetes/client-go/example) 
+* [k8s Client-Go 基本使用（1）](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&mid=2247484439&idx=1&sn=bf7f90caabf3c3e68d58ef41316a65a9&chksm=fa6bc9bbcd1c40ad098d8bf539b98c84f1138b2966167b68c05d35c22c9df7e7047d594a1a4d#rd) 
+* [k8s Informer之Reflector的解析(2)](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&mid=2247484451&idx=1&sn=93aadb231555374060083acfa869a152&chksm=fa6bc98fcd1c40993d86a1d376100027bfd1be2eddb8e269a8b679ebf3690b6b989e81f62633#rd) 
+* [k8s Informer之DeltaFIFO的解析(3)](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&mid=2247484468&idx=1&sn=b540265e23886149f4a242e651db18f5&chksm=fa6bc998cd1c408ea18d544fcc1b8a185f383168df6475f0eebe6461dca0df61c8a60072efa9#rd) 
+* [k8s Informer之Indexer的分析（4）](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&mid=2247484483&idx=1&sn=ae7a2e0f71303675e48e8903bda72f42&chksm=fa6bc9efcd1c40f9398585f8c425d7103690d1da36178cd99e1b02d42dcfa6db914506433fa7#rd) 
+
+
+
+## Controller Runtime
+
+* [controller-runtime之Manage启动分析（1）](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&mid=2247484499&idx=1&sn=44d77cd744f7b30cb7b4326a9d1385d6&chksm=fa6bc9ffcd1c40e9282cb4c80ed21636c0b453b90e61b5604ececf21f56307c67689be93cc21#rd) 
+* [controller-runtime之Controller启动分析（2）](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&mid=2247484522&idx=1&sn=95011da324d9428f64137bac7c46ff6b&chksm=fa6bc9c6cd1c40d061e7b55d51eacee3b302cba7091e89343d6eccfb271e3b058d10f3e23254#rd) 
+
+
 
 ## Go 基础知识
 
@@ -51,6 +73,8 @@
 * [Go 语言 channel 的阻塞问题](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&amp;mid=2247484283&amp;idx=1&amp;sn=c3de19c27e585a417bd224f92783c48b&amp;chksm=fa6bced7cd1c47c189f99283ce6fe9564c92a5e1f7ba4a28fe224394afb3e9c81167c3f5f246&token=468025259&lang=zh_CN#rd)
 * [Go如何保证并发读写的顺序](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&amp;mid=2247484292&amp;idx=1&amp;sn=2727821035f7ee6b1a21c5feff816a7d&amp;chksm=fa6bce28cd1c473e863afd4add7b54750d77ebb5b08efc5aead897222a0d70c114afa4a90bbc&token=1208516942&lang=zh_CN#rd) 
 
+
+
 ## gRPC-go
 
 0. [什么是 gRPC](https://github.com/metashops/GoFamily/blob/main/grpc/doc/0-%E4%BB%80%E4%B9%88%E6%98%AFgRPC.md)  
@@ -66,75 +90,16 @@
 9. keepalive
 10. 多路复用multiplex
 
-## 云原生
 
-* Docker
-  * Docker 基础
-  * Dockerfile
-  
-* Kubernetes 基础
-  * Kubernetes 背景
-  * 为什么要 Pod
-  * Pod 原理
-  * Pod 生命周期
-  
-* Kubernetes 常用命令
 
-* controller
-  * ReplicaSet
-  * Deployment
-  * StatefulSet
-  * DaemonSet
-  
-* configuration management
-  * ConfigMap
-  * Secret
-  * ServiceAccount
-  
-* Network
-  * Flannel
-  * NetworkPolicy
-  * Ingress
-  
-* store
-  * Local 存储
-  * Ceph
-  
-* monitor
-  * Prometheus
-  
-* DevOps
-  * Jenkins
-  * Gitlab
-  
-* Istio
+## 计算机基础
 
-* Containerd
-  * OCI & CRI
-  
-* 二次开发基础
-  
-  * [Client-go 快速入门体验](https://github.com/metashops/GoFamily/tree/main/kubernetes/client-go/example) 
-  
-  * Client-go 
-    * Informer 机制
-    * Reflect 源码
-    * DeltaFIFO 源码
-    * Indexer 源码
-    * WorkQueue 源码
-  * 编写控制器
-    * CRD
-    * 代码生成器
-  * Operator
-    * 什么是 Operator
-    * Operator Framework 使用
+八股文笔记在线脑图地址：[计算机网络](https://www.processon.com/view/link/620e0e86079129799619067a) 
 
-## 边缘计算
+计算机网络
 
-* 为什么要边缘计算
-* KubeEdge
-* k3s
-* 边缘计算落地实现
+1. [浏览器发起http请求背后的流程](https://github.com/metashops/GoFamily/blob/main/network/1-%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8F%91%E8%B5%B7HTTP%E8%AF%B7%E6%B1%82%E8%83%8C%E5%90%8E%E7%9A%84%E5%8E%9F%E7%90%86.md)  
+2. [全面剖析http细节](https://github.com/metashops/GoFamily/blob/main/network/2-%E5%85%A8%E9%9D%A2%E5%89%96%E6%9E%90HTTP%E7%BB%86%E8%8A%82.md)  
 
 
 
@@ -180,6 +145,8 @@
 ## 不定期分享
 
 * [defer关键字，都能扯很久？](https://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&amp;mid=2247484225&amp;idx=1&amp;sn=f41838df530ce9b920f6a180f164b3aa&amp;chksm=fa6bceedcd1c47fb0b103c9dc6fe0364a8e79b0a5658c45d8bab52ad8f72c7214f23758539a7&token=612778377&lang=zh_CN#rd)
+
+
 
 ## 辅助资料
 

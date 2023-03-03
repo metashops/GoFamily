@@ -5,6 +5,10 @@
 
 一起拥抱更多开源，希望大家多多支持。（别忘记**Star**哟）
 
+2023年 ：焦点与兴趣
+
+- 容器、虚拟化、网络、BPF
+
 <p align="center">
   <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-metashops-lightgrey.svg" alt="公众号"></a>
   <a href="https://blog.csdn.net/realize_dream?type=blog"><img src="https://img.shields.io/badge/CSDN-博客-critical"></a>
@@ -21,7 +25,7 @@
 
 ## Table of Contents(Ctrl+F)
 
-近期打算更新完 [Go云原生进阶聚合笔记](https://important-fight-4fa.notion.site/Go-12eeeb8b592d49f295e94d6fb35c7abc) 专栏，目前正在更新中。。。
+ [Go云原生进阶聚合笔记](https://important-fight-4fa.notion.site/Go-12eeeb8b592d49f295e94d6fb35c7abc) 专栏，目前正在更新中。。。
 
 
 

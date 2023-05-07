@@ -9,6 +9,7 @@
 2023年 ：焦点与兴趣
 
 - 容器、虚拟化、网络、BPF
+- 探索 AIGC 和 ChatGPT 与业务相结合的场景
 
 <p align="center">
   <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-metashops-lightgrey.svg" alt="公众号"></a>

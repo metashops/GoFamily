@@ -114,6 +114,10 @@
 * [Gin ](https://github.com/gin-gonic/gin)
 * [GORM](https://gorm.io/docs/)
 
+## 其他
+
+* [lo 库](https://github.com/samber/lo)
+
 ## 优质博客
 
 * [煎鱼](https://eddycjy.com/)

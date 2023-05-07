@@ -21,7 +21,7 @@
 
 ## Table of Contents(Ctrl+F)
 
- [Go云原生进阶聚合笔记](https://important-fight-4fa.notion.site/Go-12eeeb8b592d49f295e94d6fb35c7abc) 专栏，目前正在更新中。。。
+[Go云原生进阶聚合笔记](https://important-fight-4fa.notion.site/Go-12eeeb8b592d49f295e94d6fb35c7abc) 专栏，目前正在更新中。。。
 
 ## Kubernetes
 
